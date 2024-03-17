@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.647c09de.css",
+    "main.js": "/PortfolioReact/static/js/main.fdefc4c2.js",
+    "static/js/453.1407b060.chunk.js": "/PortfolioReact/static/js/453.1407b060.chunk.js",
+    "static/media/sha-pixels.png": "/PortfolioReact/static/media/sha-pixels.8bacad9b02e60d229b52.png",
+    "static/media/bayer-askmed.png": "/PortfolioReact/static/media/bayer-askmed.6949ba0a5fb1fa98b2fb.png",
+    "static/media/FashioSwap.png": "/PortfolioReact/static/media/FashioSwap.176c12e304a2389004d3.png",
+    "static/media/myworkphoto.png": "/PortfolioReact/static/media/myworkphoto.6f30c6fd83f3e060f136.png",
+    "static/media/enemzet.png": "/PortfolioReact/static/media/enemzet.b8c29a272444c946e84b.png",
+    "static/media/tinnitus-blog.png": "/PortfolioReact/static/media/tinnitus-blog.c2643fe2072878854a88.png",
+    "static/media/mybestwishes.png": "/PortfolioReact/static/media/mybestwishes.35ed66b5e2c0e62ced8f.png",
+    "static/media/contour.png": "/PortfolioReact/static/media/contour.6c6b9ca850e5b51472ba.png",
+    "static/media/pigletz.jpg": "/PortfolioReact/static/media/pigletz.6d37a857ee747306fab3.jpg",
+    "static/media/sha-beats.jpg": "/PortfolioReact/static/media/sha-beats.9d4712ecc4bac06d714a.jpg",
+    "index.html": "/PortfolioReact/index.html",
+    "main.647c09de.css.map": "/PortfolioReact/static/css/main.647c09de.css.map",
+    "main.fdefc4c2.js.map": "/PortfolioReact/static/js/main.fdefc4c2.js.map",
+    "453.1407b060.chunk.js.map": "/PortfolioReact/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647c09de.css",
+    "static/js/main.fdefc4c2.js"
+  ]
+}
